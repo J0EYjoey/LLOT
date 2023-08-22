@@ -1,1 +1,1 @@
-This is an example of LLOT applied to the Drosophila embryo data.
+# LLOT: application of Laplacian Linear Optimal Transport in spatial transcriptome reconstruction
